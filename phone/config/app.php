@@ -134,6 +134,9 @@ return [
     |
     */
 
+    'GOOGLE_RECAPTCHA_KEY' => '6LeRiqwUAAAAAOnF9XeZrap3zu74qtjbAs-OOMpG',
+    'GOOGLE_RECAPTCHA_SECRET' => '6LeRiqwUAAAAAPaPOjwovMNTkk4vpgN3Za4_5xfU',
+
     'providers' => [
 
         /*
