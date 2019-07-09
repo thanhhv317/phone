@@ -38,5 +38,6 @@ class HomeController extends Controller
         $user->address = $request->address;
         $user->save();
         // test pull request
+        // sua xong roi, lan nay la dc
     }
 }
