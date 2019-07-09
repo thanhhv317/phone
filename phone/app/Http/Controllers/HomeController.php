@@ -29,13 +29,19 @@ class HomeController extends Controller
         return view('home');
     }
 
-    public function editProfile (Request $request) {
+    public function editProfile(Request $request)
+    {
         $id = Auth::user()->id;
         $user = User::find($id);
         
         $user->name = $request->name;
         $user->address = $request->address;
         $user->save();
+    }
+
+    public function createPullRequest()
+    {
+        // demo
     }
 
     
