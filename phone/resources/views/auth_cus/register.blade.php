@@ -89,7 +89,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <!-- <div class="col-md-4">
             <div class="justify-content-center">
                 <div class="col-md-12">
                     <div class="card">
@@ -104,7 +104,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     </form>
 </div>
